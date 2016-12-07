@@ -7,3 +7,6 @@ http://blog.csdn.net/mo_xiao_mo/article/details/52639359
 
 2.一个丝滑的全屏滑动返回手势
 http://blog.sunnyxx.com/2015/06/07/fullscreen-pop-gesture/
+
+3.基于swift的HUD(菊花类)
+https://github.com/johnlui/SwiftNotice
