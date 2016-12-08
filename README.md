@@ -18,7 +18,9 @@ https://github.com/icanzilb/SwiftSpinner
 5.动画
 https://github.com/MengTo/Spring
 
-6.输入信息事实验证
+6.输入信息事实验证demo
 https://cocoapods.org/?q=AJWValidator
 ![image](https://github.com/KingSkai/Collection/blob/master/demo.mp4.gif ) 
 
+7.输入信息提示(与输入信息事实验证demo联用效果更好)
+https://github.com/KingSkai/Collection/blob/master/UITextBox.swift
