@@ -17,3 +17,8 @@ https://github.com/icanzilb/SwiftSpinner
 
 5.动画
 https://github.com/MengTo/Spring
+
+6.输入信息事实验证
+https://cocoapods.org/?q=AJWValidator
+![image](https://github.com/KingSkai/Collection/blob/master/demo.mp4.gif ) 
+
