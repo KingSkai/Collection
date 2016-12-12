@@ -24,3 +24,6 @@ https://cocoapods.org/?q=AJWValidator
 
 7.输入信息提示(与输入信息事实验证demo联用效果更好)
 https://github.com/KingSkai/Collection/blob/master/UITextBox.swift
+
+8.基于swift的网络请求方法
+https://github.com/JustHTTP/Just
