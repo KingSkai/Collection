@@ -12,9 +12,12 @@ http://blog.sunnyxx.com/2015/06/07/fullscreen-pop-gesture/
 https://github.com/johnlui/SwiftNotice
 ![image](https://github.com/KingSkai/Collection/blob/master/SwiftNotice.gif ) 
 
+
 4.基于sift的酷炫菊花
 https://github.com/icanzilb/SwiftSpinner
-![image](https://github.com/KingSkai/Collection/blob/master/spinner-preview.gif) 
+
+![image](https://github.com/KingSkai/Collection/blob/master/spinner-preview.gif ) 
+
 
 5.动画
 https://github.com/MengTo/Spring
@@ -31,5 +34,5 @@ https://github.com/JustHTTP/Just
 
 9.类似于QQ提示的bar
 https://github.com/qiuncheng/NoticeBar
-![image](https://github.com/KingSkai/Collection/blob/master/qq_notice_view_1.jpeg) 
+![image](https://github.com/KingSkai/Collection/blob/master/qq_notice_view_1.jpeg ) 
 
