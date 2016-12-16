@@ -27,3 +27,8 @@ https://github.com/KingSkai/Collection/blob/master/UITextBox.swift
 
 8.基于swift的网络请求方法
 https://github.com/JustHTTP/Just
+
+9.类似于QQ提示的bar
+https://github.com/qiuncheng/NoticeBar
+![image](https://github.com/KingSkai/Collection/blob/master/qq_notice_view_1.jpeg) 
+
