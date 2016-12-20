@@ -36,3 +36,5 @@ https://github.com/JustHTTP/Just
 https://github.com/qiuncheng/NoticeBar
 ![image](https://github.com/KingSkai/Collection/blob/master/qq_notice_view_1.jpeg ) 
 
+9.swift的图像网络加载
+https://github.com/onevcat/Kingfisher
