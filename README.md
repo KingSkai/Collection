@@ -39,3 +39,6 @@ https://github.com/qiuncheng/NoticeBar
 
 9.swift的图像网络加载
 https://github.com/onevcat/Kingfisher
+
+10.蛮好用的播放器
+https://github.com/viki-org/VKVideoPlayer
