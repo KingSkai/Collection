@@ -44,6 +44,7 @@ https://github.com/onevcat/Kingfisher
 https://github.com/viki-org/VKVideoPlayer
 
 11滚动点击,轮播效果(OC&Swift)
+
 https://github.com/terenceLuffy/AppStoreStyleHorizontalScrollView
 
 ![image](https://github.com/KingSkai/Collection/blob/master/scroll1.gif)
