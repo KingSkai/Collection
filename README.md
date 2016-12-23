@@ -50,3 +50,5 @@ https://github.com/terenceLuffy/AppStoreStyleHorizontalScrollView
 ![image](https://github.com/KingSkai/Collection/blob/master/scroll1.gif)
 ![image](https://github.com/KingSkai/Collection/blob/master/scroll2.gif)
 
+12.别的的收藏(web)
+https://github.com/huang303513/WebBasicCommonDemos
