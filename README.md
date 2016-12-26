@@ -52,3 +52,6 @@ https://github.com/terenceLuffy/AppStoreStyleHorizontalScrollView
 
 12.别的的收藏(web)
 https://github.com/huang303513/WebBasicCommonDemos
+
+13.动画转场vc
+https://github.com/SebastianBoldt/Jelly
