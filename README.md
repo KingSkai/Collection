@@ -60,4 +60,4 @@ https://github.com/SebastianBoldt/Jelly
 http://www.imooc.com
 
 15.searchbar
-react-native-search-bar
+https://github.com/umhan35/react-native-search-bar
