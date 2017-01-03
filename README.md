@@ -61,3 +61,6 @@ http://www.imooc.com
 
 15.searchbar
 https://github.com/umhan35/react-native-search-bar
+
+16.炫酷的点击动画效果
+https://github.com/xxycode/UIViewXXYBoom
