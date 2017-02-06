@@ -83,3 +83,6 @@ https://github.com/yagamis/react-native-guide#react-native%E5%AD%A6%E4%B9%A0%E6%
 
 22.ReactiveX--响应式编程 
 https://github.com/ReactiveX/RxSwift
+
+23.iOS直播开发详细简介
+http://blog.csdn.net/zhonggaorong/article/details/51483282
